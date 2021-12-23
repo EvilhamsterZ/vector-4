@@ -1,5 +1,6 @@
 # vector-4
 ## code
+```
 #include <iostream>
 #include <vector>
 
@@ -14,3 +15,4 @@ int main()
     }
     std::cout<< sizeof(std::vector<int>) + (sizeof(int) * v.size());
 }
+```
